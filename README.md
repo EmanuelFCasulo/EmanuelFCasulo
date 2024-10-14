@@ -1,8 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Emanuel Casulo</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/emanuelcasulo/">Emanuel Casulo</a> 👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
-
+<img src="https://api.vinglet.com/images/0b028a6f-e86a-4a28-8b7b-744e582b41f6"> 
 ## Sobre mi
 
 👨‍💻 Ténico Universitario en Programación egresado de la Universidad Tecnológica Nacional
