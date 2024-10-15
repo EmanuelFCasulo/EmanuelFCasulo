@@ -30,7 +30,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,css,html,js,html,angular,git,github,postman,bash,linux,a&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,css,js,html,angular,git,github,postman,bash,linux,a&perline=12" />
   </a>
 </p>
 <br>
