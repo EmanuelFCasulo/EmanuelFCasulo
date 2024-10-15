@@ -5,7 +5,7 @@
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </div>
 
-<h3>About me</h3> 
+<h3>      About me</h3> 
 <ul>
   <li>👨‍💻 University Technician in Programming graduated from the National Technological University</li>
   <li>💻 Currently working for Ricoh Latin America </li>
@@ -14,12 +14,15 @@
 </ul>
 
 <br>
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
-### ⚙️ &nbsp;GitHub Analytics
+GitHub Analytics
 <a href="https://github.com/EmanuelFCasulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelfcasulo&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emanuelfcasulo&layout=compact&langs_count=8&theme=algolia"/>
