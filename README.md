@@ -23,7 +23,7 @@
 <br>
 <br>
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >👨🏻‍💻Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,8 +32,8 @@
 </p>
 <br>
 
+<h2> ⭐GitHub Analytics </h2>h2>
 <div align="center">
-GitHub Analytics
 <a href="https://github.com/EmanuelFCasulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelfcasulo&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emanuelfcasulo&layout=compact&langs_count=8&theme=algolia"/>
