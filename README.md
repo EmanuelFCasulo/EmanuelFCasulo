@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/emanuelcasulo/">Emanuel Casulo</a> </h1>
 </div>
 <div>
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=50%; /></p>
 </div>
 
 <h3>      About me</h3> 
