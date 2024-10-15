@@ -1,8 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/emanuelcasulo/">Emanuel Casulo</a> </h1>
 </div>
-<br>
-<br>
+
 <br>
 <br>
 <div>
@@ -13,8 +12,8 @@
 <ul>
   <li>👨‍💻 University Technician in Programming graduated from the National Technological University</li>
   <li>💻 Currently working for Ricoh Latin America </li>
-  <li>🔍 Siempre busco nuevos desafíos y oportunidades para seguir creciendo profesionalmente. </li>
-  <li>🎯 Mi objetivo es colaborar en proyectos innovadores y aportar soluciones eficientes.</li>
+  <li>🔍 Looking for new challenges and opportunities to continue growing professionally. </li>
+  <li>🎯 My goal is to collaborate on innovative projects and provide efficient solutions.</li>
 </ul>
 
 <br>
@@ -23,6 +22,14 @@
 <br>
 <br>
 <br>
+<br>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,css,html,js,sql,git,github,postman,bash,linux,a&perline=9" />
+  </a>
+</p>
 <br>
 
 <div align="center">
